@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Internet Archive (Anime)",
+    "id": 9876543210,
+    "baseUrl": "https://archive.org",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://archive.org",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://githubusercontent.com",
+    "apiUrl": "https://archive.org",
+    "version": "0.0.1",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": "Streams public-domain anime and video items from Archive.org"
+  }
+]
